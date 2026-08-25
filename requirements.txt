@@ -1,5 +1,5 @@
 streamlit
 Pillow
 numpy
-opencv-python-headless
+Topencv-python-headless
 scikit-learn
