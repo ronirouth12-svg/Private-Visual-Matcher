@@ -24,8 +24,8 @@ st.set_page_config(
 # Example:
 #
 # allowed_users = [
-#     "your-email@gmail.com",
-#     "friend@gmail.com"
+#     "ronirouth12@gmail.com",
+#     "crazylearning700@gmail.com"
 # ]
 
 ALLOWED_USERS = [
